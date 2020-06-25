@@ -1,0 +1,2 @@
+serviceClass: com.gkepnan1.client.GreetingService
+path: D3BEDA6A882E544DCAC488D15A553880.gwt.rpc
